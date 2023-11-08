@@ -51,7 +51,7 @@ En la barra de menú, selecciona "Ayuda" para acceder a varias opciones:
 
 [![image.png](https://i.postimg.cc/K4XQD2KC/image.png)](https://postimg.cc/T59rTBJc)
 
--""Manual" te llevará a un enlace externo a un manual de usuario si se proporciona la URL correcta.
+-""Manual" te llevará a un enlace externo a un manual de usuario
 [![image.png](https://i.postimg.cc/BnmYRRRP/image.png)](https://postimg.cc/XrykC1jn)
 
 [![image.png](https://i.postimg.cc/8kwZ72PK/image.png)](https://postimg.cc/Sj265t9C)
